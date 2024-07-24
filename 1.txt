@@ -1,2 +1,6 @@
 hello amte
+<<<<<<< HEAD
 dkvjxdbvjdskvbsvXMvb dvhxmv xnv
+=======
+ijdvcbzdb
+>>>>>>> new
